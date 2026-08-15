@@ -1,1 +1,0 @@
-// Placeholder ChatWidget component

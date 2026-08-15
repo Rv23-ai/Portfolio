@@ -1,1 +1,0 @@
-// Placeholder TechStack component
